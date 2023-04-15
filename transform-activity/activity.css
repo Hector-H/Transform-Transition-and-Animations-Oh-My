@@ -1,3 +1,6 @@
 main {
-
+    transform: skew(-10deg) rotate(-10deg);
+    width: 900px;
+    height: 700px;
+    
 }
